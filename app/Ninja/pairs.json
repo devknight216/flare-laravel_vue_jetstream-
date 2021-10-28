@@ -1,0 +1,139 @@
+{
+    "data": [
+        {
+            "name": "xUSD/YFLR",
+            "address": "0x7823E394989c8B11A90cBcE4b71C25DE2fdE8C17",
+            "tokenA": "0x2bb2ff65D551F8509255a81a715dECC6a833500D",
+            "tokenB": "0xA4150e893e74A0d4d2F31C5d176069A54E379D69",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FLTC/YFLR",
+            "address": "0x612420b4cee68d195a7D144599b661E80AA73555",
+            "tokenA": "0x6Bd7Fe771ffb295b5013b40C3cd3dbA85189f6a6",
+            "tokenB": "0xA4150e893e74A0d4d2F31C5d176069A54E379D69",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FDOGE/YFLR",
+            "address": "0x8E7d6CE21F6aB94ADa6f561858092923A6C7dE94",
+            "tokenA": "0x22aC23D8b9d283E17A2b059A01b573ED0Cf23681",
+            "tokenB": "0xA4150e893e74A0d4d2F31C5d176069A54E379D69",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "YFLR/YFIN",
+            "address": "0x35f5534bBb4e25D69E8B010c289b722aaC3ED63E",
+            "tokenA": "0xA4150e893e74A0d4d2F31C5d176069A54E379D69",
+            "tokenB": "0xC326B16b85FE29184889e3d913DAbBfA4B52d6d4",
+            "erc": true,
+            "decimalA": 18,
+            "decimalB": 18
+        },
+        {
+            "name": "YFLR/FXRP",
+            "address": "0x1E1a53c8912a8597ce62e4b33ab88F16fc3C59d2",
+            "tokenA": "0xA4150e893e74A0d4d2F31C5d176069A54E379D69",
+            "tokenB": "0xb88DBbb61eBbA9c9D7cC6C793F85D939aC989B62",
+            "erc": true,
+            "decimalA": 18,
+            "decimalB": 18
+        },
+        {
+            "name": "xUSD/YFIN",
+            "address": "0xFa3Bd9D64D6AB173c5B41A5aA1856D81e602B9B2",
+            "tokenA": "0x2bb2ff65D551F8509255a81a715dECC6a833500D",
+            "tokenB": "0xC326B16b85FE29184889e3d913DAbBfA4B52d6d4",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FLTC/YFIN",
+            "address": "0x784f88b99B53ee2068D071cc29Faf9160C51a429",
+            "tokenA": "0x6Bd7Fe771ffb295b5013b40C3cd3dbA85189f6a6",
+            "tokenB": "0xC326B16b85FE29184889e3d913DAbBfA4B52d6d4",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FDOGE/YFIN",
+            "address": "0x9E75d17627cb5D4dC30B021B23aB7EE3a4ac229e",
+            "tokenA": "0x22aC23D8b9d283E17A2b059A01b573ED0Cf23681",
+            "tokenB": "0xC326B16b85FE29184889e3d913DAbBfA4B52d6d4",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FXRP/YFIN",
+            "address": "0x87a595Bef5964CAcAe85eA538d7b109C3B7FE236",
+            "tokenA": "0xb88DBbb61eBbA9c9D7cC6C793F85D939aC989B62",
+            "tokenB": "0xC326B16b85FE29184889e3d913DAbBfA4B52d6d4",
+            "erc": true,
+            "decimalA": 18,
+            "decimalB": 18
+        },
+        {
+            "name": "xUSD/FXRP",
+            "address": "0x36d8Cfd41d3EFd7028287073B6F1C996833a66c9",
+            "tokenA": "0x2bb2ff65D551F8509255a81a715dECC6a833500D",
+            "tokenB": "0xb88DBbb61eBbA9c9D7cC6C793F85D939aC989B62",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FLTC/FXRP",
+            "address": "0x316a4696b19Cc3DC37ddE408840301bc102cB67C",
+            "tokenA": "0x6Bd7Fe771ffb295b5013b40C3cd3dbA85189f6a6",
+            "tokenB": "0xb88DBbb61eBbA9c9D7cC6C793F85D939aC989B62",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FDOGE/FXRP",
+            "address": "0x44Edeb410fc2D19a55Af7609f3a08400103747ce",
+            "tokenA": "0x22aC23D8b9d283E17A2b059A01b573ED0Cf23681",
+            "tokenB": "0xb88DBbb61eBbA9c9D7cC6C793F85D939aC989B62",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 18
+        },
+        {
+            "name": "FDOGE/FLTC",
+            "address": "0xD3c049C1B5F5B58F5bfD623f89D2901ba1B15026",
+            "tokenA": "0x22aC23D8b9d283E17A2b059A01b573ED0Cf23681",
+            "tokenB": "0x6Bd7Fe771ffb295b5013b40C3cd3dbA85189f6a6",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 6
+        },
+        {
+            "name": "xUSD/FLTC",
+            "address": "0x4BE0944fd9D8147eF51e2348E7393744f2F44e76",
+            "tokenA": "0x2bb2ff65D551F8509255a81a715dECC6a833500D",
+            "tokenB": "0x6Bd7Fe771ffb295b5013b40C3cd3dbA85189f6a6",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 6
+        },
+        {
+            "name": "FDOGE/xUSD",
+            "address": "0x61cFE0354cd528664127238b4adD32e0F7C5C3EE",
+            "tokenB": "0x22aC23D8b9d283E17A2b059A01b573ED0Cf23681",
+            "tokenA": "0x2bb2ff65D551F8509255a81a715dECC6a833500D",
+            "erc": true,
+            "decimalA": 6,
+            "decimalB": 6
+        }
+    ]
+}

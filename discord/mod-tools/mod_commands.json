@@ -1,0 +1,97 @@
+{
+    "chat_moderation" : {
+        "title": "Chat Moderation",
+        "items" : [
+            {
+                "command" : "!ban [member] [optional reason]",
+                "description" : "Ban a specific member from the Discord server (irreversible)"
+            },
+            {
+                "command" : "!tempban [member] [duration] [optional reason]",
+                "description" : "Temporarily ban a member from a server for a specific amount of time"
+            },
+            {
+                "command" : "!mute [member] [optional reason]",
+                "description" : "Mute a member so that they can't speak or type in the whole server"
+            },
+            {
+                "command" : "!tempmute [member] [duration] [optional reason]",
+                "description" : "Temporarily mute a member so that they can neither speak nor type in the whole server"
+            },
+            {
+                "command" : "!unmute [member]",
+                "description" : "Unmute a member in chat"
+            },
+            {
+                "command" : "!slowmode [optional timeout] [optional off] ",
+                "description" : "Used to enable (or disable) slow mode in a specific channel"
+            },
+            {
+                "command" : "!kick [member] [optional reason]",
+                "description" : "Kick a Discord member from the server(can be invited again)"
+            },
+            {
+                "command" : "!infractions [member]",
+                "description" : "Show how many infractions a specific user has in the server"
+            },
+            {
+                "command" : "!warn [member] [optional reason] ",
+                "description" : "Warn a member for rule breaking or other infractions"
+            },
+            {
+                "command" : "!clear [optional member] [optional count]",
+                "description" : "Clear messages in a specific channel"
+            }
+        ]
+    },
+    "tip_help" : {
+        "title": "Tip Help",
+        "items": [
+            {
+                "command" : "$tip @[recipient] [amount] [coin]",
+                "description" : "Tip in coins direct to someone ex : $tip @Donald 1 XRP"
+            },
+            {
+                "command" : "$tip @[recipient] [fiat] [amount]",
+                "description" : "Tip in fiat direct to someone ex : $tip @Donald $1"
+            },
+            {
+                "command" : "$tip voice [amount] [coin]",
+                "description" : "Tip everyone on voice channel"
+            },
+            {
+                "command" : "$tip speaking [amount] [coin]",
+                "description" : "Tips everyone active (not muted/deafened) on your Discord voice channel"
+            },
+            {
+                "command" : "$tip [number] random [amount] [coin]",
+                "description" : "Tip x Random People in the channel ex : $tip 10 random 1 XRP"
+            },
+            {
+                "command" : "$tip active [amount] [coin]",
+                "description" : "Tip active people on the channel (default is last 500 messages)"
+            },
+            {
+                "command" : "$tip active last [number] messages or minutes [amount] [coin]",
+                "description" : "- Tip active people in the last x messages ex : $tip active last 50 messages 1 XRP \n - Tip active people in the last x minutes ex : $tip active last 5 minutes 1 XRP"
+            }
+        ]
+    },
+    "modifiers": {
+        "title": "modifiers",
+        "items": [
+            {
+                "command" : "all",
+                "description" : "Include pople offline ex : $tip all active last 5 minutes 1 XRP (if just disconnected will have tip anyway)"
+            },
+            {
+                "command" : "each",
+                "description" : "The amount written will be given to each mentionned recipient ex : $tip voice 1 XRP each"
+            },
+            {
+                "command" : "Role",
+                "description" : "Recipient can be role ex : $tip @moderators 1000 XRP each ;-)"
+            }
+        ]
+    }
+}

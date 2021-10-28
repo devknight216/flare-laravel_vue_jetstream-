@@ -1,0 +1,22 @@
+{
+    "prefix": "$",
+    "token": "ODE2ODQ3MjMwMDY5NzY4MjIz.YEA6Qw.759ltir53ut5LCyPj4MMDsQBwAI",
+    "tokens": [
+        "yflr-yfin",
+        "yflr-xusd",
+        "yflr-fltc",
+        "yflr-doge",
+        "yfin-xusd",
+        "yfin-fltc",
+        "yfin-fdoge",
+        "fxrp-yflr",
+        "fxrp-yfin",
+        "fxrp-xusd",
+        "fxrp-fltc",
+        "fxrp-fdoge",
+        "fltc-xusd",
+        "fltc-fdoge",
+        "fdoge-xusd"
+    ],
+    "api_endpoint": "http://localhost/api"
+}

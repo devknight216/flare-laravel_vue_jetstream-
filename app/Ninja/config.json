@@ -1,0 +1,12 @@
+{
+    "app_endpoint": "https://flaremetrics.io",
+    "rpc_url": "http://coston.ftso.com.au:9650/ext/bc/C/rpc",
+    "token_address": {
+        "yfin": "0x79882A9DbafB9fD7812250Efd08B36E9730E6F40",
+        "yflr": "0xa91f33b0A86B058a01916cEd3eB6d821C32F2DD3",
+        "fxrp": "0x5F9d5eC3E9cB3D618F4B18B6E87ffbDB09834b2e",
+        "fltc": "0x8680f61b44c6Cfc9b1CC64653FB84cfD25a34AC0",
+        "fdoge": "0xCc9ed2DAf2969F45D329a47B3C32D078A45D7efA",
+        "xusd": "0xB69fDf7352d2dB1016042937Cf3AEf95b9A81810"
+    }
+}
